@@ -1,0 +1,1 @@
+from .dbface_detector import DBFaceDetector as FaceDetector
