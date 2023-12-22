@@ -1,0 +1,1 @@
+from .sfd_detector import SFDDetector as FaceDetector   # 从sfd_detector.py文件导入SFDDetector模块作为FaceDetector
